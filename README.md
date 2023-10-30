@@ -3,4 +3,4 @@ This repo contains the solution of 2D heat transfer problem in a complex geomete
 
 ![image](https://github.com/zlaku72/2D-heat-transfer/assets/85404399/7a480019-e930-4b21-91bc-ecb1b76caaed)
 
-
+Here, the side length of $45\degree$ rotated diamond shape is 0.5. And the diameter of all circular holes is 0.25. 
